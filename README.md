@@ -1,3 +1,3 @@
-# apuntos al codigo
+# apuntes al codigo
 
-este repositorio contine hooks dedsarrollados en diferentes proyectos para el reuso en otros proyectos
+este repositorio contiene hooks desarrollados en diferentes proyectos para el reuso en otros proyectos
